@@ -17,3 +17,7 @@ The SQL queries in this project include:
 - Customer Segmentation: Count of unique customers by attributes such as gender, age, occupation, and more.
 - Purchase Analysis: Calculating total purchases, average transactions, and distribution of spending across customer groups.
 - Insights: Identify trends, such as whether women spend more than men during Black Friday, and customer behavior across different age groups and city categories.
+
+# Key Insights
+
+# Recommendations
