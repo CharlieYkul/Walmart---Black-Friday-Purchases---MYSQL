@@ -8,7 +8,7 @@ The dataset contains Walmart customer transactions during Black Friday, with key
 
 # SQL Queries
 The SQL queries in this project include:
-- Loading data into MySQL from a CSV file.
+- Loading data into MySQL WorkBench from a CSV file.
 - Exploring the dataset and calculating summary statistics.
 - Analyzing spending patterns based on various customer attributes (gender, age, occupation, etc.).
 - Aggregating purchase metrics like total purchase, average transaction value, and customer segmentation.
