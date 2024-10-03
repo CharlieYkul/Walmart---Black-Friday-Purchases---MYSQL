@@ -20,4 +20,12 @@ The SQL queries in this project include:
 
 # Key Insights
 
-# Recommendations
+- For the Age feature, we observed that around 80% of customers who fall within the 25-40 age group account for the highest spending. Specifically, 40% of these customers are aged 26-35, 18% are aged 18-25, and 20% are aged 36-45.
+- Regarding the Gender feature, approximately 75% of purchases are made by male customers, while the remaining 25% are by female customers. This suggests that men are the primary contributors to sales for the retail store. On average, male customers spend more than female customers, a trend that can be confirmed by examining total purchase values:
+- Average spending by male customers: 9,25,408.28
+- Average spending by female customers: 7,12,217.18
+- When analyzing the relationship between Purchase and Marital Status (60% are single, 40% are married)
+- An interesting finding from the Stay_In_Current_City_Years column revealed that people who have lived in the city for one year tend to spend the most. This makes sense, as those who have been in the city for more than four years are typically more settled and purchase fewer items compared to newer residents, who tend to buy more. Specifically, 35% of the sample have lived in the city for one year, 18% for two years, and 17% for three years.
+- Looking at the City_Category feature, we were surprised to discover that although City B contributes the most to overall sales, City C shows the highest purchases for this particular product.
+- There are 20 product categories in total, with Product Categories 1, 5, 8, and 11 having the highest purchasing frequency.
+- There are 20 different types of occupations in the city.
